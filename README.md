@@ -114,9 +114,9 @@ Desarrollar un sistema que permita:
 
 ## 👨‍💻 Autor(es)
 
-- 🧑‍🎓 **[Tu Nombre Aquí]**
-- 🏫 Instituto: [Nombre del Instituto]
-- 📆 Ciclo: [Ciclo académico]
+- 🧑‍🎓 **[Glen David]**
+- 🏫 Proyecto: [Escuela]
+- 📆 Terminado: [-]
 
 ---
 
