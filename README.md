@@ -1,6 +1,7 @@
 # 🎓 Sistema de Gestión de Alumnos
 
-![Banner del Sistema](img1)
+![Banner del Sistema](src/assets/img1.png)
+
 
 ---
 
@@ -88,10 +89,10 @@ Desarrollar un sistema que permita:
 
 | Módulo | Vista |
 |-------|-------|
-| 🏠 Inicio de sesión | ![Login](img1) |
+| 🏠 Inicio de sesión | ![Login](src/assets/img2.png) |
 | 👨‍🎓 Registro de alumnos | ![Registro](img2) |
 | 📋 Listado de alumnos | ![Listado](img3) |
-| 📊 Reportes | ![Reportes](img4) |
+| 📊 Reportes | ![Reportes](src/assets/img3.png) |
 
 ---
 
